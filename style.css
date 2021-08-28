@@ -275,7 +275,7 @@ body {
 }
 
 .project-image {
-  position: absolute;
+  position: cover;
   top: 2148px;
   left: 726px;
   margin: 0;
